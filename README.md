@@ -27,7 +27,7 @@ Hello! I am a senior undergraduate Data Science student at SDU University, Found
 
 ---
 
-### 2. Chicago Food Inspections — Predictive Risk Modeling (SDS 307 Core Project)
+### 2. Chicago Food Inspections - Predictive Risk Modeling (SDS 307 Core Project)
 * **Question:** Can we accurately predict whether a food establishment will pass or fail a sanitary inspection based on historical violation records and facility features?
 * **Data:** Official *Chicago Food Inspections* dataset from the Chicago Data Portal ($16,935$ cleaned observations; binary Pass/Fail target).
 * **Method:** Built a binary logistic regression pipeline with L2 regularization using Scikit-learn, feature engineering (violation counts, critical flags), and stratified 70/30 train-test splitting with `StandardScaler`.
@@ -37,7 +37,7 @@ Hello! I am a senior undergraduate Data Science student at SDU University, Found
 
 ---
 
-### 3. Emotion Classification (NLP) — Deep Learning Model (`emotion-classifier-project`)
+### 3. Emotion Classification (NLP) - Deep Learning Model (`emotion-classifier-project`)
 * **Question:** How can we accurately classify customer emotions and sentiment from text using recurrent neural network architectures?
 * **Data:** Text-based customer sentiment dataset featuring tokenized sentences mapped to emotion classes.
 * **Method:** Built an end-to-end Natural Language Processing (NLP) pipeline in **PyTorch** utilizing text tokenization, vectorization, and deep learning **LSTM/RNN** architectures.
@@ -48,7 +48,7 @@ Hello! I am a senior undergraduate Data Science student at SDU University, Found
 ---
 
 ## Professional Experience & Achievements
-* **SDU Data Community (2024 – Present):** Founder & Lead. Built a 230+ member student community from scratch, onboarding 20 industry mentors.
-* **SDU AI Lab (2025 – Present):** AI / ML Researcher. Owned full ML delivery pipelines and shipped REST APIs using FastAPI and Docker.
-* **Freedom Course Scholar (2025 – 2026):** Sponsored by Freedom Holding Corp.; built analytics dashboards and presented at Freedom Demo Day 2026.
+* **SDU Data Community (2024 - Present):** Founder & Lead. Built a 230+ member student community from scratch, onboarding 20 industry mentors.
+* **SDU AI Lab (2025 - Present):** AI / ML Researcher. Owned full ML delivery pipelines and shipped REST APIs using FastAPI and Docker.
+* **Freedom Course Scholar (2025 - 2026):** Sponsored by Freedom Holding Corp.; built analytics dashboards and presented at Freedom Demo Day 2026.
 * **Hackathon Achievement:** 2nd Place at the Freedom Ecosystem Challenge Hackathon 2026.
