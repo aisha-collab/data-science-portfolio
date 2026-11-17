@@ -1,5 +1,5 @@
-# data-science-portfolio
-# Aisha Amirkyzy — Data Science & AI Portfolio
+
+# Aisha Amirkyzy - Data Science & AI Portfolio
 
 Hello! I am a senior undergraduate Data Science student at SDU University, Founder & Lead of the SDU Data Community (230+ members), and an applied ML researcher.
 
